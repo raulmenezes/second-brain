@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "9e0e5402d879ed3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0322a7b2ed6b0101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43d4571a253896f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-life/Travel Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Travel Ideas"
+            }
+          },
+          {
+            "id": "0b7764ab1c27f67e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-work/basic-commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "basic-commands"
+            }
+          },
+          {
+            "id": "61e6f93ff46f51bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8951dd6a5890b62c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc70e9901c70f4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be52fa662f6f8e35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9707366196504cfb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#maintenance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "289cb1c39ee7ea30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b5bc588d50d0ba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1dd474ca7566275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daecfed7c73f24f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06-work/basic-commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for basic-commands"
+            }
+          },
+          {
+            "id": "aa6a7911870323ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06-work/basic-commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from basic-commands"
+            }
+          },
+          {
+            "id": "4b5ab97fd87353ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5e33f4cf9d7fc54d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d7e2f7221f14a12e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06-work/basic-commands.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of basic-commands"
+            }
+          },
+          {
+            "id": "54930963c7d160af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 514.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "61e6f93ff46f51bc",
+  "lastOpenFiles": [
+    "06-work/Ansible.md",
+    "02-knowledge/CKA/kops-commands.md",
+    "02-knowledge/AWS/old notes/api-gateway.md",
+    "02-knowledge/AWS/old notes/advanced-elastic-load-balancers-theory.md",
+    "02-knowledge/devops/module-3.md",
+    "02-knowledge/devops/yaml-file-for-desired-state.md",
+    "02-knowledge/devops/what-do-you-know-about-temenos-credit-and-lending-institutions-core.md",
+    "02-knowledge/devops/what-is-docker.md",
+    "02-knowledge/devops/module-2.md",
+    "02-knowledge/devops/module-1.md",
+    "02-knowledge/devops/kinesis-101.md",
+    "02-knowledge/devops/elasticache.md",
+    "02-knowledge/devops/bastion-hosts.md",
+    "02-knowledge/devops/aws-command-line.md",
+    "02-knowledge/AWS/old notes/cloudfront.md",
+    "02-knowledge/AWS/old notes/cloudformation.md",
+    "06-work/basic-commands.md",
+    "02-knowledge/devops/baseline-infrastructure.md",
+    "02-knowledge/AWS/old notes/databases.md",
+    "02-knowledge/AWS/old notes/rds-backups-multi-az-and-read-replicas.md",
+    "02-knowledge/AWS/old notes",
+    "02-knowledge/AWS/old notes/postgres-operators.md",
+    "02-knowledge/AWS/nodejs-intro.md",
+    "02-knowledge/AWS/old notes/aurora.md",
+    "02-knowledge/AWS/ccp-certified-cloud-practitioner-clf-co1.md",
+    "02-knowledge/CKA/cka.md",
+    "02-knowledge/CKA/aws-k8.md",
+    "02-knowledge/AWS",
+    "02-knowledge/CKA",
+    "06-work",
+    "02-knowledge/software-engineering/Tech Interview Prep",
+    "02-knowledge/software-engineering/Angular",
+    "02-knowledge/software-engineering/Java Spring",
+    "01-projects/menezes.to",
+    "attachments/screenshot-2019-09-11-at-22-26-21.png",
+    "attachments/pasted-graphic-1-5.png",
+    "attachments/pasted-graphic-1-3.png",
+    "attachments/pasted-graphic-1.png",
+    "attachments/pasted-graphic.png",
+    "AI_Studio-custom-build.png",
+    "attachments/unlinked/ai-studio-custom-build.png",
+    "attachments/pasted-graphic-12-1.png",
+    "attachments/pasted-graphic-1-11.png",
+    "attachments/pasted-graphic-3-6.png",
+    "attachments/tips.drawing",
+    "attachments/pasted-graphic-2.tiff"
+  ]
+}
