@@ -61,15 +61,10 @@ urn:consumer:capgemini:[capgemini.app.logicalglue.net](http://capgemini.app.logi
 
 psql -d app-cwb -h db-cwb-p.cavfqotprjty.ca-central-1.rds.amazonaws.com -U app-cwb
 
-ung6mooM0faiQu3ohp0eePieg
+<redacted>
 
-New Users: [vijaykarthikeyan.s@capgemini.com](mailto:vijaykarthikeyan.s@capgemini.com) - 379
-[yashwanth-kumar-reddy.konkala@capgemini.com](mailto:yashwanth-kumar-reddy.konkala@capgemini.com) - 384
-[sriram-thiruvalangadu.kumaraswamy@capgemini.com](mailto:sriram-thiruvalangadu.kumaraswamy@capgemini.com) - 382
-[gokul.mahajan@capgemini.com](mailto:gokul.mahajan@capgemini.com) - 383
-[shibananda.mishra@capgemini.com](mailto:shibananda.mishra@capgemini.com) - 378
-[sneha.are@capgemini.com](mailto:sneha.are@capgemini.com) - 380
-[rukmani.srikanth@capgemini.com](mailto:rukmani.srikanth@capgemini.com) - 381 
+New Users:
+- User list removed from this note. Keep personal data in the source system or a private access-controlled document.
 
  Builder         |     376
  Builder         |     377
@@ -96,4 +91,4 @@ New Users: [vijaykarthikeyan.s@capgemini.com](mailto:vijaykarthikeyan.s@capgem
 ## Related
 - [[databases-moc]]
 - [[create-new-instance]]
-- [[nodejs-intro]]
+- [[prod-deployment-database]]

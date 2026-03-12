@@ -1,8 +1,23 @@
-**Joshua**
-Back in Macau in Sept
-Conflict resolution 
-USJ
+---
+tags:
+  - area/life
+  - topic/people
+---
 
-**Al**
-Degree on planes
-Nightly
+# People
+
+## Joshua
+
+- Back in Macau in September
+- Conflict resolution
+- USJ
+
+## Al
+
+- Degree on planes
+- Nightly
+
+## Related
+
+- [[life-moc]]
+- [[Travel Ideas]]

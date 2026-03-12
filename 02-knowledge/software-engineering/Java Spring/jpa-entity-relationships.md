@@ -29,6 +29,6 @@ JPA Cascade Types
 
 ## Related
 - [[software-engineering-moc]]
-- [[foundation-of-jpa-and-orm-object-relational-mapping]]
+- [[jpa-and-spring-data]]
 - [[lombok]]
 - [[recipe-data-model]]

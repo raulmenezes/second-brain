@@ -86,4 +86,4 @@ Protection against attacks like session fixation or clickjacking
 - [[software-engineering-moc]]
 - [[spring-framework]]
 - [[spring-framework-questions]]
-- [[external-properties-with-spring-framework]]
+- [[spring-configuration-options]]

@@ -20,8 +20,7 @@ This MOC groups related notes in this section.
 
 ## TensorFlow
 
-- [[tf-is-a-reference-to-the-tensorflow-js-library]]
-- [[tf-is-a-reference-to-the-tensorflow-js-library]]
+TensorFlow notes were referenced in the original import but are missing from the current vault export.
 
 ## Other
 

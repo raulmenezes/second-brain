@@ -25,4 +25,5 @@ autoremove
 
 
 ## Related
+- [[work-moc]]
 - [[resources-moc]]

@@ -8,9 +8,9 @@ tags:
   - type/snippet
 ---
 
-# Uchoo9queem2dai3eWael8i
+# PostgreSQL DB Migration Commands
 
-export PGPASSWORD='uchoo9queem2dai3eWael8i'
+export PGPASSWORD='<redacted>'
 
 psql -d app-mixer -h rds-ew2-d-1-cluster.cluster-c3jq2c4k37lt.eu-west-2.rds.amazonaws.com -U app-mixer
 
@@ -38,4 +38,5 @@ UPDATE masterdb.project SET upload_id='GUClhHdsmLZgglanYJLC' WHERE project_id='5
 UPDATE masterdb.project SET upload_id='GUClhHdsmLZgglanYJLC' WHERE project_id='5825';
 
 ## Related
+- [[work-moc]]
 - [[resources-moc]]

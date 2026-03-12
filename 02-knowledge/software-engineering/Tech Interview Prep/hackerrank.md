@@ -64,6 +64,5 @@ function repeatedString(s, n) {
 
 ## Related
 - [[software-engineering-moc]]
-- [[http-client]]
 - [[switch-statement]]
 - [[rxjx-reactive-programming]]

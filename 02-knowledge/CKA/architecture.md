@@ -10,7 +10,7 @@ tags:
 
 # Architecture
 
-[[Kubernetes]]
+[[kubernetes]]
 Master and Node
 
 

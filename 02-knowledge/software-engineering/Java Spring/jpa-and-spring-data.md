@@ -1,4 +1,6 @@
 ---
+aliases:
+  - foundation-of-jpa-and-orm-object-relational-mapping
 tags:
   - area/knowledge
   - area/software-engineering

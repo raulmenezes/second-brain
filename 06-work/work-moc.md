@@ -26,3 +26,16 @@ Central index for work-related notes that should stay separate from personal pro
 ## UX / Product
 
 - [[conversational-ux]]
+
+## Infrastructure / Operations
+
+- [[Ansible]]
+- [[Server basic commands]]
+- [[check-storage-in-postgresql]]
+- [[clone-model]]
+- [[create-new-instance]]
+- [[infrastructure-repo]]
+- [[nginx]]
+- [[postgres-commands]]
+- [[postgresql-db-migration-commands]]
+- [[prod-deployment-database]]

@@ -8,47 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43d4571a253896f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-life/Travel Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Travel Ideas"
-            }
-          },
-          {
             "id": "0b7764ab1c27f67e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-work/basic-commands.md",
+                "file": "06-work/docker-txai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basic-commands"
-            }
-          },
-          {
-            "id": "61e6f93ff46f51bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "docker-txai"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#maintenance",
+                "query": "026-03-12",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,35 +194,46 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "61e6f93ff46f51bc",
+  "active": "0b7764ab1c27f67e",
   "lastOpenFiles": [
-    "06-work/Ansible.md",
-    "02-knowledge/CKA/kops-commands.md",
-    "02-knowledge/AWS/old notes/api-gateway.md",
-    "02-knowledge/AWS/old notes/advanced-elastic-load-balancers-theory.md",
-    "02-knowledge/devops/module-3.md",
-    "02-knowledge/devops/yaml-file-for-desired-state.md",
-    "02-knowledge/devops/what-do-you-know-about-temenos-credit-and-lending-institutions-core.md",
-    "02-knowledge/devops/what-is-docker.md",
-    "02-knowledge/devops/module-2.md",
-    "02-knowledge/devops/module-1.md",
-    "02-knowledge/devops/kinesis-101.md",
-    "02-knowledge/devops/elasticache.md",
-    "02-knowledge/devops/bastion-hosts.md",
-    "02-knowledge/devops/aws-command-line.md",
-    "02-knowledge/AWS/old notes/cloudfront.md",
-    "02-knowledge/AWS/old notes/cloudformation.md",
-    "06-work/basic-commands.md",
-    "02-knowledge/devops/baseline-infrastructure.md",
-    "02-knowledge/AWS/old notes/databases.md",
-    "02-knowledge/AWS/old notes/rds-backups-multi-az-and-read-replicas.md",
+    "06-work/helm-keycloak.md",
+    "06-work/docker-txai.md",
+    "06-work/infra/create-new-instance.md",
+    "06-work/infra/deploy-new-instance.md",
+    "06-work/infra/infra-rh-backup-notes.md",
+    "06-work/infra/manual-deployment.md",
+    "06-work/infra/clone-model.md",
+    "06-work/infra/Server basic commands.md",
+    "06-work/infra/create-build-and-deploy.md",
+    "attachments/ai-studio-custom-build.png",
+    "attachments/pasted-graphic.png",
+    "attachments/pasted-graphic-2-12.png",
+    "attachments/pasted-graphic-2-6.png",
+    "attachments/pasted-graphic-1-20.png",
+    "06-work/tl-weekly-duties.md",
+    "06-work/work-moc.md",
+    "06-work/ui-tech-interview.md",
+    "06-work/conversational-ux.md",
+    "06-work/drills.md",
+    "06-work/infra/check-storage-in-postgresql.md",
+    "06-work/microservice-helm-and-argocd.md",
+    "attachments/pasted-graphic-93.png",
+    "attachments/pasted-graphic-91.png",
+    "attachments/screen-shot-2017-11-15-at-14-54-01.png",
+    "attachments/pasted-graphic-9-1.png",
+    "attachments/pasted-graphic-1-2.png",
+    "06-work/infra/Ansible.md",
+    "06-work/infrastructure-repo.md",
+    "06-work/infra",
+    "00-inbox/rewrite-queue.md",
+    "06-work/postgresql-db-migration-commands.md",
+    "00-inbox/roof-leak-formal-complaint.md",
+    "00-inbox/vault-audit-2026-03-12.md",
+    "03-life/life-moc.md",
+    "03-life/People.md",
+    "03-life/Todo.md",
+    "03-life/Travel Ideas.md",
     "02-knowledge/AWS/old notes",
-    "02-knowledge/AWS/old notes/postgres-operators.md",
-    "02-knowledge/AWS/nodejs-intro.md",
-    "02-knowledge/AWS/old notes/aurora.md",
-    "02-knowledge/AWS/ccp-certified-cloud-practitioner-clf-co1.md",
-    "02-knowledge/CKA/cka.md",
-    "02-knowledge/CKA/aws-k8.md",
     "02-knowledge/AWS",
     "02-knowledge/CKA",
     "06-work",
@@ -257,17 +241,6 @@
     "02-knowledge/software-engineering/Angular",
     "02-knowledge/software-engineering/Java Spring",
     "01-projects/menezes.to",
-    "attachments/screenshot-2019-09-11-at-22-26-21.png",
-    "attachments/pasted-graphic-1-5.png",
-    "attachments/pasted-graphic-1-3.png",
-    "attachments/pasted-graphic-1.png",
-    "attachments/pasted-graphic.png",
-    "AI_Studio-custom-build.png",
-    "attachments/unlinked/ai-studio-custom-build.png",
-    "attachments/pasted-graphic-12-1.png",
-    "attachments/pasted-graphic-1-11.png",
-    "attachments/pasted-graphic-3-6.png",
-    "attachments/tips.drawing",
-    "attachments/pasted-graphic-2.tiff"
+    "attachments/tips.drawing"
   ]
 }

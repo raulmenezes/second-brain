@@ -96,6 +96,6 @@ spec:
 
 ## Related
 - [[devops-moc]]
-- [[basic-commands]]
+- [[Server basic commands]]
 - [[useful-commands]]
 - [[aws-command-line]]

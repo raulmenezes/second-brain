@@ -78,5 +78,5 @@ chsh -s /usr/local/bin/bash
 ## Related
 - [[archive-moc]]
 - [[setup-git-environment-with-github]]
-- [[salesforce-test-environment-ok]]
-- [[use-git-without-troubles]]
+- [[Server basic commands]]
+- [[git]]

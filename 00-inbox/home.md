@@ -14,12 +14,13 @@ Welcome to your Obsidian second brain
 
 ## Quick Navigation
 
-- [[00 Inbox]] — Unsorted & new captures
-- [[01 Projects]] — Active work & side projects
-- [[02 Knowledge]] — Everything you've learned
-- [[03 Life]] — Food, travel, personal notes
-- [[04 Resources]] — Quotes & code snippets
-- [[05 Archive]] — Old employer notes (Sky, Sytel)
+- [[00-inbox|00 Inbox]] — Unsorted & new captures
+- [[projects-moc|01 Projects]] — Active work & side projects
+- [[knowledge-moc|02 Knowledge]] — Everything you've learned
+- [[life-moc|03 Life]] — Food, travel, personal notes
+- [[resources-moc|04 Resources]] — Quotes & code snippets
+- [[archive-moc|05 Archive]] — Old employer notes (Sky, Sytel)
+- [[work-moc|06 Work]] — Active work notes and operational references
 
 ## Stats
 - **Total notes imported:** 230
@@ -31,4 +32,8 @@ Welcome to your Obsidian second brain
 
 ## Related
 - [[inbox-moc]]
+- [[missing-links-queue]]
+- [[rename-queue]]
+- [[rewrite-queue]]
+- [[vault-audit-2026-03-12]]
 - [[readme]]

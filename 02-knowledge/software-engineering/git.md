@@ -35,4 +35,4 @@ ssh gitlab.com
 - [[software-engineering-moc]]
 - [[directive]]
 - [[highcharts]]
-- [[nativescript]]
+- [[redux]]

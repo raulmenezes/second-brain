@@ -1,4 +1,6 @@
 ---
+aliases:
+  - aws-cloud-practitioner
 tags:
   - area/devops
   - area/knowledge

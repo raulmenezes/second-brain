@@ -45,4 +45,4 @@ CORS is enforced by the client
 - [[devops-moc]]
 - [[storage-gateway]]
 - [[vpc-virtual-private-cloud]]
-- [[hands-on-ui-interview]]
+- [[ui-tech-interview]]

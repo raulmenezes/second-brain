@@ -34,4 +34,4 @@ HOW-types are focused on things most people can see and tend to be better at bui
 
 ## Related
 - [[resources-moc]]
-- [[skygoatest3]]
+- [[in-the-beginning-was-the-command-line]]

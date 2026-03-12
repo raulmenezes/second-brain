@@ -22,6 +22,6 @@ tags:
 
 ## Related
 - [[software-engineering-moc]]
-- [[external-properties-with-spring-framework]]
+- [[spring-configuration-options]]
 - [[jpa-entity-relationships]]
-- [[swagger-spec]]
+- [[spring-framework]]

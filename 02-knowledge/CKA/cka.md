@@ -53,4 +53,4 @@ kubectl set image deployment/nginx-deployment nginx=nginx:1.8
 - [[devops-moc]]
 - [[udemy-cka]]
 - [[vpc-lab]]
-- [[docker]]
+- [[docker-txai]]
