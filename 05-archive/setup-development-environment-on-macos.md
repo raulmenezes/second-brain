@@ -78,5 +78,4 @@ chsh -s /usr/local/bin/bash
 ## Related
 - [[archive-moc]]
 - [[setup-git-environment-with-github]]
-- [[Server basic commands]]
 - [[git]]

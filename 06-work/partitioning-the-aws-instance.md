@@ -50,7 +50,5 @@ sudo umount home
 ls home  sudo mount -a  ls home
 
 ## Related
-- [[devops-moc]]
 - [[deploy-new-instance]]
-- [[baseline-infrastructure]]
 - [[route53-routing-policies-aws]]

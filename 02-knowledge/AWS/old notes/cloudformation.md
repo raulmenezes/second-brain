@@ -19,7 +19,6 @@ Quickly deploy and manage applications in the AWS Cloud without worrying about t
 Simply upload your application and Elastic Beanstalk automatically handles the details of capacity provisioning, load balancing, scaling and application health monitoring
 
 ## Related
-- [[devops-moc]]
 - [[cloudfront]]
 - [[aws-cloud-practitioner]]
 - [[cloudwatch]]

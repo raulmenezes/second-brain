@@ -95,7 +95,4 @@ spec:
   - eu-west-2c
 
 ## Related
-- [[devops-moc]]
-- [[Server basic commands]]
-- [[useful-commands]]
 - [[aws-command-line]]

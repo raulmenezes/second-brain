@@ -52,7 +52,6 @@ AWS Storage Gateway
 AWS S3 managed storage to supplement on-premise storage. It can also be used within a VPC in a similar way
 
 ## Related
-- [[devops-moc]]
 - [[bastion-hosts]]
 - [[route53-routing-policies-aws]]
 - [[elastic-load-balancers]]

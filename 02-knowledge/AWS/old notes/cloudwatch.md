@@ -47,7 +47,6 @@ Alarms - Notify you when particular service thresholds are hit
 Events - CloudWhat events help you respond to state changes in your AWS resources.
 
 ## Related
-- [[devops-moc]]
 - [[cloudfront]]
 - [[cloudformation]]
 - [[lambda]]

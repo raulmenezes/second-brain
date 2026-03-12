@@ -44,4 +44,3 @@ Do not impact database performance
 - [[databases-moc]]
 - [[postgres-operators|operators]]
 - [[rds-backups-multi-az-and-read-replicas]]
-- [[start-mongo]]

@@ -46,7 +46,5 @@ mysql.server start
 npm install
 
 ## Related
-- [[devops-moc]]
-- [[brew-install-heroku-brew-heroku-https-github-com-brainjs-brain-js]]
 - [[kubernetes]]
 - [[overview-kibernetes]]

@@ -23,7 +23,6 @@ Bastion is used to securely administer EC2 instances (using SSH or RDP) (Called 
 Cannot use a NAT Gateway as a Bastion host
 
 ## Related
-- [[devops-moc]]
 - [[questions-power-user-access-allows]]
 - [[ebs-elastic-block-storage]]
 - [[elastic-file-system-efs]]

@@ -71,7 +71,5 @@ IPVS
 ![[attachments/pasted-graphic-19.png]]
 
 ## Related
-- [[devops-moc]]
 - [[helm-kubernetes]]
-- [[kubernetes-google-cloud]]
 - [[kubernetes]]

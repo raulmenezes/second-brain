@@ -48,7 +48,5 @@ Can’t merge placement groups
 Can’t move existing instances into placement groups. Need to create an AMI
 
 ## Related
-- [[devops-moc]]
 - [[ebs-elastic-block-storage]]
-- [[fhs-filesystem-hierarchy-standard]]
 - [[elastic-load-balancers]]

@@ -44,7 +44,6 @@ Exabyte-scale data transfer service - extremely large amounts of data to AWS
 Data center migration
 
 ## Related
-- [[devops-moc]]
 - [[storage-gateway]]
 - [[questions-power-user-access-allows]]
 - [[aws-overall-summary]]

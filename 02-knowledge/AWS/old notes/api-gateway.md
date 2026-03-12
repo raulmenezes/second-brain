@@ -42,7 +42,6 @@ If using multiple domains with API Gateway ensure you have enabled CORS on API G
 CORS is enforced by the client
 
 ## Related
-- [[devops-moc]]
 - [[storage-gateway]]
 - [[vpc-virtual-private-cloud]]
 - [[ui-tech-interview]]

@@ -43,7 +43,5 @@ Provides transcoding presets for popular output formats - settings for devices e
 S3 bucket -> Lambda Function -> Elastic Transcoder -> S3 Bucket
 
 ## Related
-- [[devops-moc]]
 - [[s3-simple-storage-service]]
 - [[simple-work-flow-service-swf]]
-- [[sample-pods-and-services-yaml]]

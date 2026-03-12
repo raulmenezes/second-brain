@@ -31,4 +31,3 @@ JPA Cascade Types
 - [[software-engineering-moc]]
 - [[jpa-and-spring-data]]
 - [[lombok]]
-- [[recipe-data-model]]

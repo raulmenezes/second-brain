@@ -37,6 +37,3 @@ for( i = 0 ; i <= 20; i++){
 
 ## Related
 - [[software-engineering-moc]]
-- [[spring-data-jpq-query-methods]]
-- [[recipe-data-model]]
-- [[highcharts]]

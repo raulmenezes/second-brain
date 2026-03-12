@@ -26,7 +26,6 @@ Subnets can only be associated with one Route Table
 ![[attachments/pasted-graphic-8.png]]
 
 ## Related
-- [[devops-moc]]
 - [[vpc-flow-logs]]
 - [[vpc-virtual-private-cloud]]
 - [[vpc-endpoints]]

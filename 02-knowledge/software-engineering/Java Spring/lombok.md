@@ -22,6 +22,4 @@ tags:
 
 ## Related
 - [[software-engineering-moc]]
-- [[spring-configuration-options]]
 - [[jpa-entity-relationships]]
-- [[spring-framework]]

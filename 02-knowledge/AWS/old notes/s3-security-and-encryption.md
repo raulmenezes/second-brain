@@ -25,7 +25,5 @@ Buckets are private by default
 	Encryption Object before passing it to S3
 
 ## Related
-- [[devops-moc]]
 - [[aws-command-line]]
 - [[aws-cloud-practitioner]]
-- [[launch-config-and-auto-scaling-groups]]

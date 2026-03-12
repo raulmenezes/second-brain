@@ -24,7 +24,5 @@ Used to increase database and web application performance
 ![[attachments/screenshot-2019-07-30-at-21-45-52.png]]
 
 ## Related
-- [[devops-moc]]
 - [[elastic-load-balancers]]
 - [[advanced-elastic-load-balancers-theory]]
-- [[elk-stack-elasticstack-logs]]

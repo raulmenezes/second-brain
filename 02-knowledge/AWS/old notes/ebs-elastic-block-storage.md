@@ -45,7 +45,5 @@ By default both ROOT volumes will be deleted on termination.
 However, with EBS volumes you can tell AWS to keep the root device volume
 
 ## Related
-- [[devops-moc]]
 - [[elastic-file-system-efs]]
 - [[advanced-elastic-load-balancers-theory]]
-- [[elk-stack-elasticstack-logs]]

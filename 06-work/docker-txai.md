@@ -29,7 +29,5 @@ docker run --rm -d --name txai \
 docker run -d --restart=always -p 8080:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin -e DB_VENDOR=h2 nexus.live.logicalglue.net/keycloak:18.1.1-teamcity
 
 ## Related
-- [[devops-moc]]
-- [[docker-setup]]
 - [[what-is-docker]]
 - [[cka]]

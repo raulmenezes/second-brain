@@ -34,7 +34,6 @@ DynamoDB
 Using NAT Gateway (Access to the internet) we leave the Amazon Network, VPC Gateway does not leave our VPC network when reaching things like S3
 
 ## Related
-- [[devops-moc]]
 - [[vpc-flow-logs]]
 - [[vpc-lab]]
 - [[components]]

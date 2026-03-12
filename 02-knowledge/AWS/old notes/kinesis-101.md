@@ -31,7 +31,6 @@ Kinesis Analytics
 - Analyse data on the fly until its stored on S3, ElasticSearch
 
 ## Related
-- [[devops-moc]]
 - [[questions-power-user-access-allows]]
 - [[kubernetes]]
 - [[overview-kibernetes]]

@@ -46,5 +46,4 @@ Zalando Postgres Operator
 ## Related
 - [[databases-moc]]
 - [[aurora]]
-- [[prod-deployment-database]]
 - [[model-cloning-popup-server]]

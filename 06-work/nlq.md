@@ -29,7 +29,6 @@ export DB_METADATA=`pwd`/resources/transact-metadata.yaml
 poetry run start
 
 ## Related
-- [[devops-moc]]
 - [[Ansible]]
 - [[snowball]]
 - [[dns]]

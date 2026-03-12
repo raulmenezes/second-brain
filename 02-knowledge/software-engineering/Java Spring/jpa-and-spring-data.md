@@ -41,6 +41,4 @@ Extends JpaRepository
 
 ## Related
 - [[software-engineering-moc]]
-- [[spring-data-jpq-query-methods]]
 - [[jpa-entity-relationships]]
-- [[spring-framework]]

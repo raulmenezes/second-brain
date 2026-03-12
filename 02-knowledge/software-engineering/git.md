@@ -34,5 +34,4 @@ ssh gitlab.com
 ## Related
 - [[software-engineering-moc]]
 - [[directive]]
-- [[highcharts]]
 - [[redux]]

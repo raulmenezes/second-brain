@@ -68,6 +68,3 @@ Redis
 
 ## Related
 - [[databases-moc]]
-- [[rds-relational-databases]]
-- [[prod-deployment-database]]
-- [[database-initialization-with-spring]]

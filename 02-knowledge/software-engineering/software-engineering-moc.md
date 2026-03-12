@@ -16,16 +16,11 @@ This MOC groups related notes in this section.
 - [[jpa-entity-relationships]]
 - [[lombok]]
 - [[spring-boot-server-side]]
-- [[spring-configuration-options]]
-- [[spring-data-jpq-query-methods]]
-- [[spring-framework]]
-- [[spring-framework-questions]]
 
 ## Frontend / Angular
 
 - [[directive]]
 - [[flexbox]]
-- [[highcharts]]
 - [[redux]]
 
 ## Node / JavaScript
@@ -39,30 +34,23 @@ This MOC groups related notes in this section.
 - [[cypress-setup]]
 - [[hackerrank]]
 - [[interview]]
-- [[protractor-e2e-testing]]
 
 ## Architecture / Patterns
 
-- [[02-knowledge/software-engineering/rxjs-operators|operators]]
 - [[query-annotation]]
 - [[query-dsl-domain-specific-language]]
-- [[shared-module]]
 
 ## Search / Data
 
 - [[canvas-in-kibana]]
 - [[javascript-objects-and-prototypes]]
-- [[recipe-data-model]]
 
 ## Other
 
 - [[elasticsearch]]
 - [[frontend-interview-notes]]
 - [[git]]
-- [[logical-glue]]
 - [[props-are-states-immutable]]
-- [[questions]]
-- [[rxjx-reactive-programming]]
 - [[switch-statement]]
 
 ## Missing from Export

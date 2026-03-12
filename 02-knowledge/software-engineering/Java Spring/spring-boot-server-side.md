@@ -65,6 +65,4 @@ JPA entity JPA Repo
 
 ## Related
 - [[software-engineering-moc]]
-- [[spring-data-jpq-query-methods]]
-- [[spring-configuration-options]]
 - [[interview]]

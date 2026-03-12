@@ -31,7 +31,4 @@ Network ACLs have separate inbound and outbound roles and each rule can either a
 Network ACLs are stateless, responses to allowed inbound traffic are subject to rules for outbound traffic (and vice versa)
 
 ## Related
-- [[devops-moc]]
-- [[nat-instances-and-nat-gateways-network-address-translation]]
-- [[launch-config-and-auto-scaling-groups]]
 - [[identity-access-management-roles-iam]]

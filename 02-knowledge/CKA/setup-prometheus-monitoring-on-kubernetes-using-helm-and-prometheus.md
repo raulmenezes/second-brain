@@ -34,7 +34,6 @@ e.g. Application that stores data
 ![[attachments/pasted-graphic-4-10.png]]
 
 ## Related
-- [[devops-moc]]
 - [[prometheus-monitoring]]
 - [[helm-kubernetes]]
 - [[Ansible]]

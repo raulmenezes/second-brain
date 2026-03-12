@@ -67,7 +67,6 @@ Currently **only available in 1 AZ**
 Can restore snapshots to new AZs in the event of an outage.
 
 ## Related
-- [[devops-moc]]
 - [[dns]]
 - [[questions-power-user-access-allows]]
 - [[architecture]]

@@ -38,7 +38,6 @@ Utilises the CloudFront Edge Network to accelerate your upload to S3
 Use a distinct URL to upload directly to an edge location which will then transfer that file to S3 bucket e.g. acloudguru.s3-accelerate.amazonaws.com
 
 ## Related
-- [[devops-moc]]
 - [[web-identity-federation-and-cognito]]
 - [[questions-power-user-access-allows]]
 - [[aws-overall-summary]]

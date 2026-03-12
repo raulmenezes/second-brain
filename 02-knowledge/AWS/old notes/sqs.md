@@ -60,7 +60,6 @@ SQS long polling is a way to retrieve messages from your SQS queues.
 While the regular short polling returns immediately, long polling doesn't return a respone until a message arrives in the message queue, or the long poll times out.
 
 ## Related
-- [[devops-moc]]
 - [[questions-power-user-access-allows]]
 - [[dns]]
 - [[kinesis-101]]

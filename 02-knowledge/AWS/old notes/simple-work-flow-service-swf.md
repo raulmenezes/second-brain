@@ -40,7 +40,5 @@ If something has finished (or failed) in a workflow, a Decider decides what to d
 Carry out the activity tasks
 
 ## Related
-- [[devops-moc]]
 - [[sns-simple-notification-service]]
-- [[sample-pods-and-services-yaml]]
 - [[s3-simple-storage-service]]

@@ -92,7 +92,6 @@ kubectl create deployment --image=nginx nginx --dry-run=client -o yaml
 kubectl create deployment --image=nginx nginx --dry-run=client -o yaml > nginx-deployment.yaml
 
 ## Related
-- [[devops-moc]]
 - [[cka]]
 - [[helm-keycloak]]
 - [[overview-kibernetes]]

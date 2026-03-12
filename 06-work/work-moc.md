@@ -30,7 +30,6 @@ Central index for work-related notes that should stay separate from personal pro
 ## Infrastructure / Operations
 
 - [[Ansible]]
-- [[Server basic commands]]
 - [[check-storage-in-postgresql]]
 - [[clone-model]]
 - [[create-new-instance]]
@@ -38,4 +37,3 @@ Central index for work-related notes that should stay separate from personal pro
 - [[nginx]]
 - [[postgres-commands]]
 - [[postgresql-db-migration-commands]]
-- [[prod-deployment-database]]

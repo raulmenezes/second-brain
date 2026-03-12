@@ -796,7 +796,6 @@ Learn what cannot trigger lambda
 5 out of 5
 
 ## Related
-- [[devops-moc]]
 - [[s3-simple-storage-service]]
 - [[storage-gateway]]
 - [[s3-version-control]]

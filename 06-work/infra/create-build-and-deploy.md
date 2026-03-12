@@ -52,7 +52,5 @@ top
 ps -ef | grep -i jobid
 
 ## Related
-- [[devops-moc]]
 - [[manual-deployment]]
 - [[microservice-helm-and-argocd]]
-- [[4th-field-subnet-block]]

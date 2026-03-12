@@ -52,7 +52,5 @@ Data written to on-premises storage hardware. Data is asynchronously backed up t
 **Tape Gateway (VTL)**
 
 ## Related
-- [[devops-moc]]
 - [[api-gateway]]
-- [[storage-class]]
 - [[s3-simple-storage-service]]

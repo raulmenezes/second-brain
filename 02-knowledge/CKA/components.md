@@ -55,7 +55,5 @@ StatefulSet
 ![[attachments/k8s-components.png]]
 
 ## Related
-- [[devops-moc]]
 - [[vpc-endpoints]]
-- [[lens]]
 - [[cloudfront]]

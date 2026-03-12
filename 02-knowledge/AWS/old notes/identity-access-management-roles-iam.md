@@ -31,7 +31,6 @@ Roles can be assigned to instances using both the console and command line
 Roles are universal - can be used in any region
 
 ## Related
-- [[devops-moc]]
 - [[iam-identity-access-management]]
 - [[web-identity-federation-and-cognito]]
 - [[aws-command-line]]

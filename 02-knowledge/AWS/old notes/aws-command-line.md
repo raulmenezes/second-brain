@@ -33,7 +33,4 @@ aws s3 mb s3://testbucket
 cd .aws - Contains config and credentials
 
 ## Related
-- [[devops-moc]]
-- [[Server basic commands]]
 - [[kops-commands]]
-- [[useful-commands]]

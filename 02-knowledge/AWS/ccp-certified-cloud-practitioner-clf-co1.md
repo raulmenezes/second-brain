@@ -648,7 +648,6 @@ Create budgets and receive notifications as well as terminate AWS resources if b
 **AWS Cost and Usage report** - view the most granular data about your AWS bill?
 
 ## Related
-- [[devops-moc]]
 - [[aws-cloud-practitioner]]
 - [[sns-simple-notification-service]]
 - [[vpc-virtual-private-cloud]]

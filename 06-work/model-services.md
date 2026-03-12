@@ -32,7 +32,4 @@ docker compose --profile=rfp-ui -f deployment/docker-compose-complete.yml up
 docker compose --profile=nlp2sql-transact-solution -f deployment/docker-compose-complete.yml up
 
 ## Related
-- [[devops-moc]]
-- [[sample-pods-and-services-yaml]]
 - [[microservice-helm-and-argocd]]
-- [[udemy-10-network-service-discovery]]

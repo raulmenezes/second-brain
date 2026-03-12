@@ -14,27 +14,20 @@ This MOC groups related notes in this section.
 - [[aurora]]
 - [[postgres-commands]]
 - [[rds-backups-multi-az-and-read-replicas]]
-- [[rds-relational-databases]]
 
 ## Mongo / Node
 
-- [[mean-stack]]
-- [[start-mongo]]
 
 ## Cloning / Deployment
 
-- [[aws-set-up-cluster]]
 - [[clone-model]]
 - [[model-cloning-popup-server]]
 - [[create-new-instance]]
 
 ## General
 
-- [[database-initialization-with-spring]]
 - [[nginx]]
 - [[postgres-operators|operators]]
-- [[prod-deployment-database]]
-- [[socket]]
 
 ## Other
 
@@ -42,5 +35,4 @@ This MOC groups related notes in this section.
 - [[databases]]
 - [[frontend-developer-building-maintainable-and-reusable-components]]
 - [[model-cloning-popup-server]]
-- [[nodejs-intro]]
 - [[udemy]]

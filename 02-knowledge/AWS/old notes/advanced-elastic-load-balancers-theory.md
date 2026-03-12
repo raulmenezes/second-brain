@@ -22,7 +22,5 @@ Allow to direct traffic to different EC2 instances based on the URL contained in
 E.g. to a different AZ for /images in the URL
 
 ## Related
-- [[devops-moc]]
 - [[elastic-load-balancers]]
 - [[ebs-elastic-block-storage]]
-- [[load-balancer-issue]]

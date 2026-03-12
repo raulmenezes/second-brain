@@ -65,7 +65,5 @@ old - ocFgqGjZLcoQMdGEgPYE
 UPDATE masterdb.project SET upload_id='UpjXWDOLHjwpZZswylrb' WHERE project_id='4';
 
 ## Related
-- [[devops-moc]]
 - [[helm-kubernetes]]
-- [[network-port-check-commands]]
 - [[elastic-load-balancers]]

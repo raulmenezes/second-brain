@@ -123,7 +123,6 @@ Task
             state:
 
 ## Related
-- [[devops-moc]]
 - [[setup-prometheus-monitoring-on-kubernetes-using-helm-and-prometheus]]
 - [[dns]]
 - [[elasticache]]

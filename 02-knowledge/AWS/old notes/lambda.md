@@ -42,7 +42,5 @@ Application Layer/ AWS APIS
 AWS Lambda
 
 ## Related
-- [[devops-moc]]
 - [[vpc-lab]]
 - [[cloudwatch]]
-- [[dynamodb]]

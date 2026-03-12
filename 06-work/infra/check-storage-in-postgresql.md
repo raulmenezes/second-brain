@@ -50,4 +50,3 @@ growpart /dev/xvdb 1
 - [[databases-moc]]
 - [[create-new-instance]]
 - [[model-cloning-popup-server]]
-- [[prod-deployment-database]]

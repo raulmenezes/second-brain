@@ -65,4 +65,3 @@ function repeatedString(s, n) {
 ## Related
 - [[software-engineering-moc]]
 - [[switch-statement]]
-- [[rxjx-reactive-programming]]

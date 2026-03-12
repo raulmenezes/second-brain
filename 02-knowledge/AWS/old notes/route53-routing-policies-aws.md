@@ -66,7 +66,6 @@ Can buy domains with AWS
 Takes up to 3 days to register
 
 ## Related
-- [[devops-moc]]
 - [[questions-power-user-access-allows]]
 - [[encrypted-root-device-volumes-and-snapshots]]
 - [[tl-weekly-duties]]

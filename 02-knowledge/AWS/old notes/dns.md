@@ -78,7 +78,5 @@ MX Records
 PTR Records - Looking up Name against an IP address
 
 ## Related
-- [[devops-moc]]
-- [[lens]]
 - [[vpc-endpoints]]
 - [[Ansible]]

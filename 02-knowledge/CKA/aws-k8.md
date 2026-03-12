@@ -41,7 +41,6 @@ kops edit ig master-eu-west-2a ${NAME}
 ![[attachments/pasted-graphic-24.png]]
 
 ## Related
-- [[devops-moc]]
 - [[aws-command-line]]
 - [[what-is-docker]]
 - [[overview-kibernetes]]

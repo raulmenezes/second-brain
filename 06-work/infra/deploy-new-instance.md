@@ -36,7 +36,4 @@ SSH into primary backend to look at logs:
 ansible-vault edit group_vars/rds
 
 ## Related
-- [[devops-moc]]
-- [[load-balancer-issue]]
-- [[deploy-equlfax-to-dev-now]]
 - [[partitioning-the-aws-instance]]

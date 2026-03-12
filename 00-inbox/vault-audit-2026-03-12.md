@@ -31,9 +31,7 @@ tags:
 
 ### Resources
 
-- [[Server basic commands]]
 - [[postgres-commands]]
-- [[useful-commands]]
 - [[in-the-beginning-was-the-command-line]]
 - [[quotes]]
 
@@ -48,7 +46,6 @@ tags:
 
 - [[knowledge-moc]]
 - [[software-engineering-moc]]
-- [[devops-moc]]
 - [[ai-ml-moc]]
 
 ## Issues Found

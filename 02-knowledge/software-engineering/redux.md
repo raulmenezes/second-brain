@@ -106,6 +106,4 @@ Move toward a Presentational and Container Component - mindset
 
 ## Related
 - [[software-engineering-moc]]
-- [[shared-module]]
-- [[shared-module]]
 - [[cypress-setup]]

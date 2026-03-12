@@ -35,7 +35,6 @@ kubectl config current-context kubectl config use rmenezes@txai-ew2-u-1 kube
 ansible-vault decrypt /Users/raulmenezes/code/glue/infrastructure/k8s/cluster-users/admin-txai-ew2-u-2.conf
 
 ## Related
-- [[devops-moc]]
 - [[model-services]]
 - [[encrypted-root-device-volumes-and-snapshots]]
 - [[create-build-and-deploy]]

@@ -38,7 +38,4 @@ Prometheus  Difficult to scale
 Monitoring of K8s Cluster Node Resources out of the box
 
 ## Related
-- [[devops-moc]]
 - [[setup-prometheus-monitoring-on-kubernetes-using-helm-and-prometheus]]
-- [[google-container-engine]]
-- [[kubernetes-google-cloud]]

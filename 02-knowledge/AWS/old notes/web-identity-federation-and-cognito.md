@@ -32,7 +32,6 @@ Provide temporary **AWS credentials to access** AWS services like S3 or DynamoDB
 Push synchronisation using SNS
 
 ## Related
-- [[devops-moc]]
 - [[iam-identity-access-management]]
 - [[identity-access-management-roles-iam]]
 - [[s3-version-control]]

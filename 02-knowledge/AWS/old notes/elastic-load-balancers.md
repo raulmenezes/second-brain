@@ -49,7 +49,5 @@ Read ELB FAW for Classic Load Balancers
 Different groups e.g. EU, America and Australia
 
 ## Related
-- [[devops-moc]]
 - [[advanced-elastic-load-balancers-theory]]
-- [[load-balancer-issue]]
 - [[elasticache]]

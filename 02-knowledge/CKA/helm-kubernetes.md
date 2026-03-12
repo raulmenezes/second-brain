@@ -78,7 +78,5 @@ helm status RELEASE_NAME
 kubectl scale --replicas=2
 
 ## Related
-- [[devops-moc]]
 - [[overview-kibernetes]]
 - [[kubernetes]]
-- [[kubernetes-google-cloud]]

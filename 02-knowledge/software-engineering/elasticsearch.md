@@ -61,6 +61,5 @@ How often a term appears in a given document
 
 ## Related
 - [[software-engineering-moc]]
-- [[questions]]
 - [[encapsulated-objects-can-contain-related-data-and-code]]
 - [[jpa-entity-relationships]]

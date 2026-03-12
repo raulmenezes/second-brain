@@ -12,7 +12,5 @@ tags:
 [[components]]
 
 ## Related
-- [[devops-moc]]
 - [[helm-kubernetes]]
 - [[overview-kibernetes]]
-- [[lens]]

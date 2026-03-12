@@ -95,7 +95,6 @@ Management ->
 Store objects using a write once, read many (WORM) model
 
 ## Related
-- [[devops-moc]]
 - [[sns-simple-notification-service]]
 - [[simple-work-flow-service-swf]]
 - [[storage-gateway]]

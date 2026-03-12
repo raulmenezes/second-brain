@@ -23,7 +23,6 @@ Sits behind Load Balances
 Reboot with failover - Failing from one AZ to another
 
 ## Related
-- [[devops-moc]]
 - [[architecture]]
 - [[vpc-virtual-private-cloud]]
 - [[s3-security-and-encryption]]

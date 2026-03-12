@@ -45,6 +45,4 @@ Sort sort = new Sort(Sort.Direction.ASC, "name")
 
 ## Related
 - [[software-engineering-moc]]
-- [[questions]]
 - [[query-dsl-domain-specific-language]]
-- [[protractor-e2e-testing]]

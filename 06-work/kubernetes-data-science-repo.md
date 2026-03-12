@@ -117,7 +117,5 @@ Creating a repository to host the sample app source code
 gcloud source repos create default
 
 ## Related
-- [[devops-moc]]
-- [[kubernetes-google-cloud]]
 - [[helm-kubernetes]]
 - [[overview-kibernetes]]

@@ -34,7 +34,6 @@ VPCs -> Create flow log
 Can filter by Accepted, Rejected or All
 
 ## Related
-- [[devops-moc]]
 - [[vpc-lab]]
 - [[vpc-endpoints]]
 - [[vpc-virtual-private-cloud]]

@@ -80,7 +80,5 @@ Single Git branch with overlays with kustomize
 ![[attachments/pasted-graphic-1-18.png]]
 
 ## Related
-- [[devops-moc]]
-- [[keycloak]]
 - [[helm-kubernetes]]
 - [[udemy-cka]]

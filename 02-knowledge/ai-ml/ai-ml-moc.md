@@ -24,4 +24,3 @@ TensorFlow notes were referenced in the original import but are missing from the
 
 ## Other
 
-- [[drills]]

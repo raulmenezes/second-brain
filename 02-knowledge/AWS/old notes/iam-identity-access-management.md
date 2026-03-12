@@ -30,7 +30,6 @@ Create and customise your own password policy
 	2. Email
 
 ## Related
-- [[devops-moc]]
 - [[identity-access-management-roles-iam]]
 - [[web-identity-federation-and-cognito]]
 - [[questions-power-user-access-allows]]

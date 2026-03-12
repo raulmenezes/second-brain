@@ -38,7 +38,5 @@ Objects are cached for the life of the **TTL (Time To Live)**
 Can clear cached objects, but you will be charged.
 
 ## Related
-- [[devops-moc]]
 - [[cloudformation]]
 - [[cloudwatch]]
-- [[google-cloud-essentials]]

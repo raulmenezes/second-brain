@@ -61,4 +61,3 @@ Make it easier for people to develop agents that they want. - Evaluate agents
 ## Related
 - [[ai-ml-moc]]
 - [[llm-transformers]]
-- [[drills]]

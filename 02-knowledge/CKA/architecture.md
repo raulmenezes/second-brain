@@ -34,7 +34,5 @@ Master
 			-
 
 ## Related
-- [[devops-moc]]
 - [[ha-architecture]]
-- [[baseline-infrastructure]]
 - [[overview-kibernetes]]

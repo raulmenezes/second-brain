@@ -26,6 +26,3 @@ External ones - Google, Facebook, and others https://github.com/jaredhanson/pa
 
 ## Related
 - [[software-engineering-moc]]
-- [[shared-module]]
-- [[shared-module]]
-- [[shared-module]]

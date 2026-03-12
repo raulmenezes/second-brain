@@ -33,5 +33,4 @@ ReactElement is a representation of a DOM element in the Virtual DOM.
 
 ## Related
 - [[software-engineering-moc]]
-- [[shared-module]]
 - [[redux]]

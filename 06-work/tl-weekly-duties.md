@@ -160,7 +160,6 @@ nc -l -p 7800
 nc -vz 10.249.0.12 7800
 
 ## Related
-- [[devops-moc]]
 - [[helm-kubernetes]]
 - [[deploy-new-instance]]
 - [[route53-routing-policies-aws]]

@@ -100,5 +100,4 @@ select * from person where country_of_birth IN ('China', 'Brazil')
 ## Related
 - [[databases-moc]]
 - [[check-storage-in-postgresql]]
-- [[prod-deployment-database]]
 - [[postgresql-db-migration-commands]]

@@ -50,7 +50,6 @@ kubectl scale deployment/nginx-deployment --replicas=2
 kubectl set image deployment/nginx-deployment nginx=nginx:1.8
 
 ## Related
-- [[devops-moc]]
 - [[udemy-cka]]
 - [[vpc-lab]]
 - [[docker-txai]]

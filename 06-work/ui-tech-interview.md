@@ -82,7 +82,5 @@ Task 5 Optional: State Management
 react-redux for state management and react-router-dom for routing.
 
 ## Related
-- [[devops-moc]]
 - [[simple-work-flow-service-swf]]
-- [[what-do-you-know-about-temenos-credit-and-lending-institutions-core]]
 - [[sns-simple-notification-service]]

@@ -48,7 +48,5 @@ Network Access Control Lists are Stateless
 ![[attachments/pasted-graphic-6.png]]
 
 ## Related
-- [[devops-moc]]
 - [[vpc-lab]]
-- [[kubernetes-google-cloud]]
 - [[ccp-certified-cloud-practitioner-clf-co1]]

@@ -30,6 +30,4 @@ element this component is attached to
 
 ## Related
 - [[software-engineering-moc]]
-- [[rxjx-reactive-programming]]
-- [[questions]]
 - [[elasticsearch]]
